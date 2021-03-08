@@ -1,6 +1,6 @@
-# maplestorytute
+# MAPLESTORY <3 FLUTTER
 
-A new Flutter project.
+This game is built with Flutter from scratch!
 
 ## Getting Started
 
